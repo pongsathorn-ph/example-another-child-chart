@@ -3,6 +3,16 @@ entries:
   example-another-child-chart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-04-29T16:22:03.1147428+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 14874f82da5ad58e5b3d985afa4f9fce24025ef1d0535f1eba2e559c4827f8de
+    name: example-another-child-chart
+    type: application
+    urls:
+    - temp/example-another-child-chart-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-04-29T15:56:50.74647+07:00"
     description: A Helm chart for Kubernetes
     digest: be6c988c39519b1570a127015dda043bfc932d667af98bffa9f49253a01550c7
@@ -11,4 +21,4 @@ entries:
     urls:
     - assets/example-another-child-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2024-04-29T15:56:50.7454695+07:00"
+generated: "2024-04-29T16:22:03.1141564+07:00"
